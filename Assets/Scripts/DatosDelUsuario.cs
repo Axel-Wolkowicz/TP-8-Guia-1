@@ -11,6 +11,7 @@ public class DatosDelUsuario : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        Debug.Log("Ejercicio 2");
         Debug.Log("Mi nombre es "+ nombre + ", tengo " + edad + ", mido " + estatura + " metros y es " + donante + " que soy donante de órganos.");
     }
 

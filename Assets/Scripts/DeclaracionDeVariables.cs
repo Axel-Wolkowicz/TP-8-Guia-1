@@ -11,6 +11,7 @@ public class DeclaracionDeVariables : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        Debug.Log("Ejercicio 1");
         Debug.Log(entero);
         Debug.Log(flotante);
         Debug.Log(texto);
